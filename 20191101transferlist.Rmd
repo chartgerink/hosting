@@ -1,0 +1,70 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+```{r}
+library(alluvial)
+library(plyr)
+library(rjson)
+
+api_url <- 'https://journaltransfer.issn.org/api?query=*'
+download.file(api_url, './transferlist.json')
+dat <- fromJSON(file = 'transferlist.json')
+
+# clean the data to something usable
+tidy_dat <- data.frame()
+for (i in 1:length(dat)) {
+  tidy_dat <- rbind(tidy_dat, data.frame(id = dat[[i]]$id,
+                             origin = dat[[i]]$contents$transPubName,
+                             dest = dat[[i]]$contents$recPubName))
+}
+
+red_dat <- ddply(tidy_dat, .(origin, dest), function (x) {
+  return(data.frame(x, freq = dim(x)[1]))
+})
+
+red_dat <- red_dat[,2:4]
+red_dat <- unique(red_dat)
+
+red_dat$origin <- as.character(red_dat$origin)
+red_dat$dest <- as.character(red_dat$dest)
+
+red_dat <- red_dat[order(-red_dat$freq),]
+```
+
+# Tweet 1 
+
+i had a free afternoon and decided to do this, here's some stats
+
+of all `r length(tidy_dat$id)` documented transfers on the issn transfer page, there is concentration of journals (not distribution) in who owns the journals: `r length(unique(red_dat$origin))` original publishers transferred the `r length(tidy_dat$id)` journals to `r length(unique(red_dat$dest))` receiving pubs
+
+# Tweet 2 
+
+```{r}
+oligarchs <- sort(table(red_dat$dest), decreasing = TRUE)[1:10]
+perc <- (sum(oligarchs)/1605) * 100
+```
+the top ten out of `r length(unique(red_dat$dest))` receiving publishers got `r round(perc, 0)`% of the original journals: `r names(oligarchs)`
+
+# tweet 3
+
+notable one who isn't there: Elsevier. It looks like they clearly didn't care for acquisitions, which befits the data based business model they're more busy with (see https://twitter.com/chartgerink/status/1190201681432268801?s=20)
+
+# tweet 5
+
+and then of course, let's do a nice visual overview to wrap that up. I highlight only the top ten receiving publishers, otherwise it becomes a bit much
+
+```{r fig.cap="Flow of journals from one to another publisher", fig.asp=.625}
+nams <- names(oligarchs)
+cols <- ifelse(red_dat$dest == nams[1], 'purple', 
+                      ifelse(red_dat$dest == nams[2], 'blue', 
+                             ifelse(red_dat$dest == nams[3], 'magenta', 
+                                    ifelse(red_dat$dest == nams[4], 'black', 'grey'))))
+alluvial(red_dat[order(red_dat$dest),1:2], freq = red_dat$freq,
+         col = cols,
+         border = cols,
+         hide = red_dat$freq <= min(oligarchs),
+         cex = 0.01)
+```
