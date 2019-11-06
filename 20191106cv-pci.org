@@ -1,0 +1,228 @@
+#+TITLE: CHJ Hartgerink (life's work)
+#+OPTIONS: num:nil
+
+I do not like presenting my life's work (=CV=), but some people or
+organisations keep asking for it, so I keep track here. It's likely to
+be incomplete.
+
+# If you want to find out more about my philosophy to how I spend my energy, please read about that here.
+
+If you decide to contact me because you like my work, please do that
+via [[mailto:chris@libscie.org][this e-mail]]. I currently reside in Berlin (DE) most of the time
+and speak English, Dutch, and German natively or fluently.
+
+* Experience
+
+** Recent activities
+
+/Note that these activities may overlap with publications etc./
+
+| When       | What      | Title                                                                                                                                       | Where                                                   | Disclosure          |
+| 2019/05/24 | Panel     | Fake publishing                                                                                                                             | Scopus Board Meeting                                    | Received free lunch |
+| 2019/05/23 | Video     | [[https://vimeo.com/337990776][Shuttleworth application (2019)]]                                                                                                             |                                                         |                     |
+| 2018/05/17 | Article   | [[https://opensource.com/article/18/5/scholarly-publishers-https][Publishers need to stop using insecure HTTP]]                                                                                                 | [[https://opensource.com/][Opensource.com]]                                          |                     |
+| 2018/05/08 | Coverage  | [[https://universonline.nl/2018/05/08/tilburg-university-wil-transparante-wetenschap][Tilburg University wil transparante wetenschap]]                                                                                              | [[https://universonline.nl/][Univers]]                                                 |                     |
+| 2018/04/24 | Talk      | [[https://docs.google.com/presentation/d/1lNpF87Dqw9jYKEgLkzsmFN4kweiK33eeoAtII5r64Hk/edit#slide%3Did.p][Verified, shared, modular research communication with the Dat protocol]]                                                                      | WebConf Workshop, Researcher Centric Communication      |                     |
+| 2018/04/20 | Talk      | [[https://docs.google.com/presentation/d/1GXfYlDYW6YJydqQMhDHTR1UBIg2FkyyMkjSW-jDrjdk/edit?usp%3Dsharing]["As-you-go" instead of “after-the-fact”: Better practices by design]]                                                                         | [[http://web.archive.org/web/20180328154356/https://www.nrin.nl/agenda/nrin-research-conference-2018/][2nd NRIN research conference]]                            |                     |
+| 2018/04/14 | Talk      | [[https://docs.google.com/presentation/d/1g7SS6KpB8g3P8y9uqqiT-FHzxPgT8nEa5rOWT2fWzwM/][Sustainable science cannot co-exist with the scientific article]]                                                                             | [[http://web.archive.org/web/20180416132555/https://ccglobalsummit2018.sched.com/event/E6vu/sustainable-science-cannot-co-exist-with-the-scientific-article][Creative Commons Summit]]                                 |                     |
+| 2018/04/06 | Talk      | Redesigning scholarly communication for openness                                                                                            | [[http://web.archive.org/web/20180416132633/https://www.bitss.org/wp-content/uploads/2018/02/RT2-Netherlands_Agenda.pdf][BITSS RT2 Amsterdam]]                                     |                     |
+| 2018/03/21 | Talk      | Open data removes academic guilt                                                                                                            | [[http://web.archive.org/web/20180328201145/https://dans.knaw.nl/nl/actueel/agenda/open-day][DANS Data Repository]]                                    |                     |
+| 2018/03/01 | Workshop  | Open data and preregistration mini-workshop                                                                                                 | Tilburg University                                      |                     |
+| 2018/03/09 | Workshop  | Project management 101                                                                                                                      | Tilburg University                                      |                     |
+| 2018/02/26 | Talk      | [[https://drive.google.com/open?id%3D1NxynFGPDWKS0eaI1y2orCdAxQhEDBq5mVOta4Vmm1ug][Limits of closed science]]                                                                                                                    | Tilburg University, Developmental Psychology            |                     |
+| 2018/02/19 | Talk      | [[https://drive.google.com/open?id%3D1lqS3tD9LXVXn_IDSMKWDQNHPxhGj_a-oWHYk2E0m1FY][Progress and regress in science]]                                                                                                             | Amsterdam Medical Center (AMC), Pharmacology department |                     |
+| 2018/02/16 | Workshop  | Ethics and Data management workshop                                                                                                         | Tilburg University                                      |                     |
+| 2018/02/15 | Writing   | [[https://medium.com/read-write-participate/ok-google-delete-my-account-no-wait-no-really-a0f8bbd26265][OK Google: Delete My Account (No Wait. No Really.)]]                                                                                          | Medium                                                  |                     |
+| 2018/01/18 | Writing   | [[https://medium.com/read-write-participate/concerns-about-blockchain-for-science-1540c4ac9bdb][Concerns about blockchain for science]]                                                                                                       | Medium                                                  |                     |
+| 2017/12/19 | Talk      | [[https://docs.google.com/presentation/d/1m_bcoF8HZdz3rn9VkotBczoZHFy4Z9VF7LzLJejDB-A/edit#slide%3Did.g2c3574b01b_0_0][Redesigning scholarly communication]]                                                                                                         | Tilburg University                                      |                     |
+| 2017/12/14 | Talk      | [[https://docs.google.com/presentation/d/1jxuzYYaNvwZaEQ0aL4u38dZ7y2GUguWkj6cLNlI3DRE/edit#slide%3Did.g2c3574b01b_0_0][Decentralizing scholarly communication]]                                                                                                      | [[http://web.archive.org/web/20171205094900/https://www.eventbrite.com/e/exploring-the-peer-to-peer-web-tickets-40036048900][Beaker Browser]]                                          |                     |
+| 2017/12/01 | Workshop  | [[http://web.archive.org/web/20171205094918/https://mozillascience.github.io/WOW-Pasteur/][Working Open Workshop]]                                                                                                                       | Pasteur Institute                                       |                     |
+| 2017/11/28 | Interview | [[http://web.archive.org/web/20171205095010/http://www.sciencemag.org/news/2017/11/controversial-software-proving-surprisingly-accurate-spotting-errors-psychology-papers][Controversial software is proving surprisingly accurate at spotting errors in psychology papers]]                                             | Science Magazine                                        |                     |
+| 2017/11/22 | Interview | [[http://web.archive.org/web/20171205095016/https://www.groene.nl/artikel/dichter-bij-de-waarheid][Dichter bij de waarheid? {Closer to the truth}]]                                                                                              | De Groene Amsterdammer                                  |                     |
+| 2017/11/20 | Writing   | [[https://beta.scienceguide.nl/2017/11/wetenschap-is-meer-dan-product-promovendus-meer-dan-middel/][{Science is more than a product, the PhD-candidate more than a tool} Wetenschap is meer dan een product, de promovendus meer dan een middel]] | ScienceGuide                                            |                     |
+| 2017/11/16 | Sketch    | [[https://vimeo.com/243369476][NOT the current state of science]]                                                                                                            | [[http://web.archive.org/web/20180416133219/https://www.tilburguniversity.edu/campus/academic-forum/regular-events/night-university/program/event-nu-science-slam/][Tilburg University]]                                      |                     |
+| 2017/11/12 | Workshop  | How might we help individuals shape the culture around them in their university?                                                            | [[http://web.archive.org/web/20180416133031/https://opencon2017.sched.com/event/Cq8b/how-might-we-help-individuals-shape-the-culture-around-them-in-a-university-part-1-culture-change-workshop-europe-2][OpenCon]]                                                 |                     |
+| 2017/10/31 | Interview | [[https://www.youtube.com/watch?v%3Daba95C7fkug][Open Access : Open up your research]]                                                                                                         | Tilburg University                                      |                     |
+| 2017/10/24 | Talk      | [[https://github.com/chartgerink/talks/blob/master/2017_2018/20171024oa-week/presentation.pdf][Open is rewarding, not easy (yet)]]                                                                                                           | [[https://twitter.com/hylkeannema/status/922761846855208960][Tilburg University, Library and IT Services]]             |                     |
+| 2017/10/21 | Talk      | [[http://web.archive.org/web/20171106132552/http://amsj.nl/convention/][Young and full of desires: Reliable Knowledge (in Dutch)]]                                                                                    | Amsterdam Medical Student Journal (AMSj)                |                     |
+| 2017/10/04 | Workshop  | [[https://github.com/chartgerink/talks/blob/master/2017_2018/20171004rema-ethics/rema%2520ethics.pptx][Responsible Research Conduct]]                                                                                                                | Tilburg University                                      |                     |
+| 2017/05/18 | Podcast   | [[https://sciencedisrupt.com/podcast/chris-hartgerink][The Reinvention of Research]]                                                                                                                 | ScienceDisrupt                                          |                     |
+
+** Employment
+
++ Lead researcher and founder
+  + Where: Liberate Science GmbH
+  + When 2019/10/01-Present
++ Project Manager "Quality assurance in preclinical research funding"
+  + Where: QUEST Center, Charité Medical Center (DE)
+  + When: 2019/03/01-2019/08/31
++ PhD Candidate
+  + Where: [[http://web.archive.org/web/20180416133458/https://www.tilburguniversity.edu/webwijs/show/c.h.j.hartgerink.htm][Tilburg University, Department of Methodology and Statistics]]
+  + When: 2014-2018
+  + Defense: 2020.04.17
+  + Dissertation: Contributions towards understanding and building sustainable science
++ Research assistant
+  + Where: Tilburg University, Jelte Wicherts
+  + When: 2013-2014
++ Teaching assistant
+  + Where: Tilburg University, Department of Methodology and Statistics
+  + When: 2012-2014
++ Research Assistant
+  + Where: Tilburg University, Department of Social Psychology
+  + When: 2010-2011
+
+** Contributor
+
++ [[https://stichting-solaris.github.io/][Stichting Solaris Onderzoek en Ontwikkeling]]
+  + Advisory board member
+  + When: Sep 2019 - present
++ Mozilla Open Science Fellowship
+  + Role: Invited reviewer
+  + When: June 2019
++ [[http://web.archive.org/web/20190525162258/https://opensciencemooc.eu/people/][OpenScienceMOOC]]
+  + Role: Steering Committee member
+  + When: 2018-present
++ [[http://knowledge-exchange.info/][Knowledge Exchange]]
+  + Group: [[https://perma.cc/VZ8E-FKAB][Task & Finish Open Science and Research Evaluation]]
+  + Role: Expert member
+  + When: 2017-Aug 2019
++ [[https://thesiscommons.org][ThesisCommons]]
+  + Role: Steering Committee member
+  + When: 2017-2018
++ [[https://psyarxiv.org][PsyArXiv]]
+  + Role: Steering Committee member
+  + When: 2016-2017
+
+* Education
+
++ Code of Conduct enforcement workshop
+  + Where: [[https://otter.technology/shop/june-19-2019-online-workshop-on-code-of-conduct-incident-response/][Otter Technology]]
+  + When: June 19, 2019
++ Research Master Social and Behavioral Sciences
+  + Where: Tilburg University
+  + When: 2012-2014
+  + Track: Statistics
++ Bachelor Psychology
+  + Where: Tilburg University
+  + When: 2009-2012
+  + Minor: Social Psychology
++ Bilingual atheneum (Dutch, English)
+  + Where: Eijkhagen College
+  + When: 2003-2009
+  + Track: Economics and Society
+
+* Funding
+
++ Shuttleworth Fellowship
+  + Amount: ~$300,000 p/year
+  + Awarded: 2019
++ [[http://web.archive.org/web/20190525160538/https://blog.mozilla.org/blog/2017/09/13/mozilla-announces-15-new-fellows-science-advocacy-media/][Mozilla Open Science Fellowship]]
+  + Amount: ~$60,000
+  + Awarded: 2018
++ [[http://web.archive.org/web/20190525160116/https://ori.hhs.gov/index.php/awards-data-2016][Office of Research Integrity Phase I grant]]
+  + Proposal: [[https://doi.org/10.3897/rio.2.e8860][The value of statistical tools to detect data fabrication]]
+  + Amount: ~$100,000
+  + Awarded: 2016
+  + Role: Principal Investigator
++ [[https://shuttleworthfoundation.org/fellows/flash-grants/][Shuttleworth Flash Grant]]
+  + Amount: $5,000
+  + Awarded: 2016
+
+* Scholarly publications
+
++ Bakker, Marjan, Chris H. J. Hartgerink, Jelte M. Wicherts, and Han
+  L. J. van der Maas. “Researchers’ Intuitions About Power in
+  Psychological Research.” Psychological Science 27, no. 8 (August 1,
+  2016): 1069–77. https://doi.org/10.1177/0956797616647519.
++ Fayant, Marie-Pierre, Dominique Muller, Chris Hubertus Joseph
+  Hartgerink, and Anthony Lantian. “Is Ostracism by a Despised
+  Outgroup Really Hurtful?” Social Psychology 45, no. 6 (January 1,
+  2014): 489–94. https://doi.org/10.1027/1864-9335/a000209.
++ Hartgerink, Chris, and Stephen George. “Problematic Trial Detection
+  in ClinicalTrials.Gov.” Research Ideas and Outcomes 1 (December 17,
+  2015): e7462. https://doi.org/10.3897/rio.1.e7462.
++ Hartgerink, Chris H. J. “688,112 Statistical Results: Content Mining
+  Psychology Articles for Statistical Test Results.” Data 1, no. 3
+  (2016): 14. https://doi.org/10.3390/data1030014.
++ ———. Verified, Shared, Modular, and Provenance
+  Based Research Communication with the Dat Protocol. Publications,
+  7(2), 40 (2019). https://doi.org/10.3390/publications7020040
++ ———. “Do Not Trust Science — Verify It.” The Winnower, September
+  15, 2015. https://doi.org/10.15200/winn.144232.26366.
++ ———. “Reanalyzing Head et Al. (2015): Investigating the Robustness
+  of Widespread p-Hacking.” PeerJ 5 (March 2, 2017):
+  e3068. https://doi.org/10.7717/peerj.3068.
++ ———. “Re-Envisioning a Future in Scholarly
+  Communication,” 2017. http://library.ifla.org/1631/.
++ ———. “Research Misconduct: Speed Translation of Misconduct Reports.”
+  Nature 522 (June 24, 2015): 419. https://doi.org/10.1038/522419d.
++ Hartgerink, Chris H. J., Robbie C. M. van Aert, Michèle B. Nuijten,
+  Jelte M. Wicherts, and Marcel A. L. M. van Assen. “Distributions of
+  P-Values Smaller than .05 in Psychology: What Is Going On?” PeerJ 4
+  (April 11, 2016): e1935. https://doi.org/10.7717/peerj.1935.
++ Hartgerink, Chris H. J., Ilja van Beest, Jelte M. Wicherts, and
+  Kipling D. Williams. “The Ordinal Effects of Ostracism: A
+  Meta-Analysis of 120 Cyberball Studies.” PLOS ONE 10, no. 5 (May 29,
+  2015): e0127002. https://doi.org/10.1371/journal.pone.0127002.
++ Hartgerink, Chris H. J., J. M. Wicherts, and M. A. L. M. van
+  Assen. “Too Good to Be False: Nonsignificant Results Revisited.”
+  Collabra: Psychology 3, no. 1 (March 29,
+  2017): 9. https://doi.org/10.1525/collabra.71.
++ Hartgerink, Chris H. J., and Marino van Zelst. “‘As-You-Go’ Instead
+  of ‘After-the-Fact’: A Network Approach to Scholarly Communication
+  and Evaluation.” Publications 6, no. 2
+  (2018): 21. https://doi.org/10.3390/publications6020021.
++ Hartgerink, Chris H.J., E.M. Kemper, Markus W. Hollmann, and Gerben
+  ter Riet. “Analyzing DECREASE Trials to Estimate Evidence of Data
+  Manipulation.” F1000Research 6 (November 13,
+  2017): 1995. https://doi.org/10.12688/f1000research.12584.1.
++ Hartgerink, Chris, and Jelte. “Research Practices and Assessment of
+  Research Misconduct.” ScienceOpen Research, August
+  2, 2016. https://doi.org/10.14293/S2199-1006.1.SOR-SOCSCI.ARYSBI.v1.
++ Hartgerink, Chris, and Peter Murray-Rust. “Extracting Data from
+  Vector Figures in Scholarly Articles,” September
+  6, 2017. https://doi.org/10.5281/zenodo.839536.
++ Hartgerink, Chris, Jelte Wicherts, and Marcel van Assen. “The Value
+  of Statistical Tools to Detect Data Fabrication.” Research Ideas and
+  Outcomes 2 (April 22, 2016):
+  e8860. https://doi.org/10.3897/rio.2.e8860.
++ Nuijten, Michele B., Marcel A. L. M. van Assen, Chris Hubertus
+  Joseph Hartgerink, Sacha Epskamp, and Jelte M. Wicherts. “The
+  Validity of the Tool ‘Statcheck’ in Discovering Statistical
+  Reporting Inconsistencies.” Accessed November
+  28, 2018. https://doi.org/10.31234/osf.io/tcxaj.
++ Nuijten, Michèle B., Chris H. J. Hartgerink, Marcel A. L. M. van
+  Assen, Sacha Epskamp, and Jelte M. Wicherts. “The Prevalence of
+  Statistical Reporting Errors in Psychology (1985–2013).” Behavior
+  Research Methods 48, no. 4 (December 1, 2016):
+  1205–26. https://doi.org/10.3758/s13428-015-0664-2.
++ Olsson-Collentine, Anton, Marcel A. L. M. van Assen, and Chris
+  H. J. Hartgerink. “The Prevalence of Marginally Significant Results
+  in Psychology Over Time.” Psychological Science, February 21,
+  2019, 0956797619830326. https://doi.org/10.1177/0956797619830326.
++ Open Science Collaboration. “Estimating the Reproducibility of
+  Psychological Science.” Science 349, no. 6251 (August 28, 2015):
+  aac4716. https://doi.org/10.1126/science.aac4716.
++ “Publication Cycle: A Study of the Public Library of Science
+  (PLOS).” Authorea. Accessed May
+  22, 2019. https://www.authorea.com/users/2013/articles/36067-publication-cycle-a-study-of-the-public-library-of-science-plos/_show_article.
++ Stel, Mariëlle, Anna E. van ’t Veer, and Chris
+  H.J. Hartgerink. “Lying, Intentionality Of.” In Encyclopedia of
+  Deception, 617–18. Thousand Oaks: SAGE Publications,
+  Inc., 2014. https://doi.org/10.4135/9781483306902.
++ Tennant, Jonathan P., François Waldner, Damien C. Jacques, Paola
+  Masuzzo, Lauren B. Collister, and Chris. H. J. Hartgerink. “The
+  Academic, Economic and Societal Impacts of Open Access: An
+  Evidence-Based Review.” F1000Research 5 (September 21,
+  2016): 632. https://doi.org/10.12688/f1000research.8460.3.
++ Tennant, Jonathan P., Waldner, Francois, Jacques, Damien C.,
+  Masuzzo, Paola, Collister, Lauren B., and Chris
+  H. J. Hartgerink. “The Academic, Economic and Societal Impacts of
+  Open Access: An Evidence-Based Review - F1000Research.”
+  F1000Research. Accessed November
+  28, 2018. https://doi.org/10.12688/f1000research.8460.3.
++ Veldkamp, Coosje L. S., Chris H. J. Hartgerink, Marcel A. L. M. van
+  Assen, and Jelte M. Wicherts. “Who Believes in the Storybook Image
+  of the Scientist?” Accountability in Research 24, no. 3 (April 3,
+  2017): 127–51. https://doi.org/10.1080/08989621.2016.1268922.
+
